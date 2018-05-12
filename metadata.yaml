@@ -1,0 +1,26 @@
+_repo: Loss-of-the-Steamship-Titanic-_39415
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Great Britain. Court to investigate loss of steamship "Titanic"
+    gutenberg_agent_id: '40023'
+    url: http://www.gutenberg.org/2009/agents/40023
+description: ''
+gutenberg_issued: '2012-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39415'
+  lccn: '12040612'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks'
+- !lcsh 'Titanic (Steamship)'
+- !lcc 'VK'
+title: Loss of the Steamship "Titanic"
+url: http://www.gutenberg.org/ebooks/39415
